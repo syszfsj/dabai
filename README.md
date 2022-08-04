@@ -89,10 +89,10 @@ https://www.5yd.cc/shuyuan/SY/22_8fx50jp.json
 
 
 
-##   :fa-share-alt: 主页导航
+##   主页导航
 - [源仓库](http://www.yckceo.com/)（书源网站）
 - [网站挂了吗](https://gualemang.com/)（链接检测)
 
 
-##  :fa-lightbulb-o: 温馨提示
+##  温馨提示
 - 本站所有内容仅供书友交流学习，勿做商用。
