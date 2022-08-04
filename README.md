@@ -10,27 +10,83 @@
 - 「其他」
 第一时间更新
 
-阅读APP使用说明
-https://www.yuque.com/legado/wiki/xz
+##  开源阅读软件下载地址
 
-##  :fa-stack-overflow: 3.0书源
-- 书源合集
-- 获取链接地址：
-https://www.aliyundrive.com/s/6eyzVy5toWb
-- 更新日期：2022年8月3日（星期三）
 
-开源阅读软件下载地址
+1.github地址
 
-1.https://github.com/gedoor/legado/releases
+https://github.com/gedoor/legado/releases
 
-2.https://www.coolapk.com/apk/io.legado.app.release
+2.酷安
 
-3.https://sys123.lanzouy.com/b00vm8qgj
+https://www.coolapk.com/apk/io.legado.app.release
+
+3.大白蓝奏云
+
+https://sys123.lanzouy.com/b00vm8qgj
 密码:DB
 
-在线书源库
 
-1.http://www.yckceo.com/
+##  阅读APP使用说明
+
+https://www.yuque.com/legado/wiki/xz
+
+##  在线书源库
+
+http://www.yckceo.com/
+
+##  阅读论坛
+
+https://www.5yd.cc/forum-3.htm
+
+
+##  :fa-stack-overflow: 3.0书源
+- 大白本地书源链接地址
+
+   https://www.aliyundrive.com/s/6eyzVy5toWb
+
+
+##  :fa-th-list: 一些大佬的书源地址
+- 一程大佬的书源合集
+ 
+1. 更新21个书源
+2. 新增9个书源
+3. 删除35个书源
+4. 其它一些细节修改
+
+https://www.5yd.cc/shuyuan/SY/22_8yichengbook.json
+
+- 一程大佬2022年8月1日更新的订阅源合集
+
+ 1.更新10个网站
+
+ 2.新增6个网站
+
+ 3.删除5个网站
+
+https://www.5yd.cc/shuyuan/DY/22_8yichengrss.json
+
+- haxc的漫画源合集
+8月1更新 153个
+
+https://www.5yd.cc/shuyuan/DM/22_8_1haxcdlbook.txt
+
+- 破冰大佬有声源更新
+
+https://www.5yd.cc/shuyuan/TS/22_8pobing.txt
+
+- 来自酷安@namofree大佬的22-8月份书源更新
+
+https://www.5yd.cc/shuyuan/SY/22_8namobook.txt
+
+- 月关耳小姐姐自用书源分享
+
+https://www.5yd.cc/shuyuan/SY/22_8guaner.json
+
+- 来自QQ频道的50个精品书源
+
+https://www.5yd.cc/shuyuan/SY/22_8fx50jp.json
+
 
 
 ##   :fa-share-alt: 主页导航
