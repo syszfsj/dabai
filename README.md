@@ -1,6 +1,6 @@
 # 📕 阅读3.0｜书源&订阅分享
 
-##  :fa-th-list: 更新公告
+##  更新公告
 - 「书源」
 大白收集的本地导入
 
@@ -40,13 +40,13 @@ http://www.yckceo.com/
 https://www.5yd.cc/forum-3.htm
 
 
-##  :fa-stack-overflow: 3.0书源
+##  3.0书源
 - 大白本地书源链接地址
 
    https://www.aliyundrive.com/s/6eyzVy5toWb
 
 
-##  :fa-th-list: 一些大佬的书源地址
+##  一些大佬的书源地址
 - 一程大佬的书源合集
  
 1. 更新21个书源
